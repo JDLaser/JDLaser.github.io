@@ -1,0 +1,26 @@
+{
+"msg": "Thank You",
+"Status Code": "200",
+"data": {
+"isActive": "true",
+"Admob_native": "/22658303245/ID228_GB_Status_Saver_native",
+"Admob_Interstitial": "/22658303245/ID228_GB_Status_Saver_interstitial",
+"Admob_Banner": "/22658303245/ID228_GB_Status_Saver_banner",
+"Admob_OpenAd": "/22658303245/ID228_GB_Status_Saver_openapp",
+"is_screen_show": "false",
+"isBackIns": "false",
+"adColor": "#FF0000",
+"is_exit_screen_ad_show": "true",
+"is_first_screen_show": "false",
+"is_second_screen_show": "false",
+"is_InterstitialShow": "true",
+"is_NativeShow": "true",
+"is_panalShow": "true",
+"isExitNative": "false",
+"ins_Counter": "2",
+"isReviewDailog": "false",
+"Privacy": "https://codexpreeti.github.io/Privacy_Policy.html",
+"new_app_url": "https://play.google.com/store/apps/details?id=gbwhats.gbwhatsapp.gblatestversion",
+"show_app_new_dialog": "false"
+}
+}
