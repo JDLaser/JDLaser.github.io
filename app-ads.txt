@@ -36,6 +36,8 @@ adingo.jp, 25104, DIRECT
 adingo.jp, 28094, RESELLER
 google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
 
+google.com, pub-9945814470064914, DIRECT, f08c47fec0942fa0
+
 appbroda.com, 78, DIRECT
 google.com, pub-8049894195330131, DIRECT, f08c47fec0942fa0
 
